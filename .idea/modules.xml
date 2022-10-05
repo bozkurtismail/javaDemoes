@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-javaDemos/1-javaDemos.iml" filepath="$PROJECT_DIR$/1-javaDemos/1-javaDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-vowels/10-vowels.iml" filepath="$PROJECT_DIR$/10-vowels/10-vowels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-perfectNumber/11-perfectNumber.iml" filepath="$PROJECT_DIR$/11-perfectNumber/11-perfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-friendNumber/12-friendNumber.iml" filepath="$PROJECT_DIR$/12-friendNumber/12-friendNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-findNumber/13-findNumber.iml" filepath="$PROJECT_DIR$/13-findNumber/13-findNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-recapDemo1/2-recapDemo1.iml" filepath="$PROJECT_DIR$/2-recapDemo1/2-recapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-switchDemo/3-switchDemo.iml" filepath="$PROJECT_DIR$/3-switchDemo/3-switchDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-loopDemo/4-loopDemo.iml" filepath="$PROJECT_DIR$/4-loopDemo/4-loopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-arraysDemo/5-arraysDemo.iml" filepath="$PROJECT_DIR$/5-arraysDemo/5-arraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-reCapDemo2/6-reCapDemo2.iml" filepath="$PROJECT_DIR$/6-reCapDemo2/6-reCapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-multiDimensionalArrayDemo/7-multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/7-multiDimensionalArrayDemo/7-multiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-stringsDemo/8-stringsDemo.iml" filepath="$PROJECT_DIR$/8-stringsDemo/8-stringsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-miniProjectPrimeNumber/9-miniProjectPrimeNumber.iml" filepath="$PROJECT_DIR$/9-miniProjectPrimeNumber/9-miniProjectPrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaDemos.iml" filepath="$PROJECT_DIR$/.idea/javaDemos.iml" />
+    </modules>
+  </component>
+</project>
